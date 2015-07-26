@@ -18,8 +18,8 @@ class ViewController: UIViewController {
         println("Hello World!")
     }
 
-    func awesomeFeature() {
-        println("This is an awespme feature!")
+    func averageFeature() {
+        println("This is an average feature!")
         
     }
 
