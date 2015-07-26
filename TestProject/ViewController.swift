@@ -18,9 +18,9 @@ class ViewController: UIViewController {
         println("Hello World!")
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    func awesomeFeature() {
+        println("This is an awespme feature!")
+        
     }
 
 
