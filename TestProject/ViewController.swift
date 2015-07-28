@@ -19,6 +19,8 @@ class ViewController: UIViewController {
     }
 
     func averageFeature() {
+        
+        // This line of code needed a comment
         println("This is an average feature!")
         
     }
