@@ -28,7 +28,7 @@ class ViewController: UIViewController {
     //Comment for feature-q
     
     func featureY() {
-        for i in 0...10{
+        for i in 0..<10{
             println()
         }
     }
